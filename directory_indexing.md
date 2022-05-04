@@ -3,7 +3,7 @@ Exercice « directory indexing » https://www.root-me.org/fr/Challenges/Web-Serv
 Dans un premier temps, nous avons comme toujours regardé ce qu’il y avait dans l’onglet « sources » à l’inspection de la page.
 Un commentaire dans le index.html a largement suscité notre intérêt. Le commentaire était le suivant :
 
-<!-- include("admin/pass.html") -->
+![image](https://user-images.githubusercontent.com/91453689/166661183-a4838904-6518-4dac-8f22-0985f795c67e.png)
 
 Nous avons immédiatement pensé qu’il fallait rajouter ce bout de code dans notre url.
 L’url que nous avions de base (challenge01.root-me.org/web-serveur/ch4/) devenant donc
