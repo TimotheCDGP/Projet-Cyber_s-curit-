@@ -2,6 +2,7 @@
 https://www.root-me.org/fr/Challenges/Reseau/ETHERNET-trame
 
 On nous demande de retrouver les données confidentielles contenues dans la trame :
+
 ![3](https://user-images.githubusercontent.com/91454016/167725760-cde56f76-8cbe-49a6-9cb7-41fc41429314.png)
 
 Je sais que ce sont des caractères écrits en hexadécimal, donc je le convertis en texte avec un convertisseur quelqconque sur internet :
